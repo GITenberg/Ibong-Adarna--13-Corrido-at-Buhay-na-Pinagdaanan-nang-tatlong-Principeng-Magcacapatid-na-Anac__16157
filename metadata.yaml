@@ -1,0 +1,29 @@
+_repo: Ibong-Adarna--13-Corrido-at-Buhay-na-Pinagdaanan-nang-tatlong-Principeng-Magcacapatid-na-Anac__16157
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16157'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Philippines'
+- !lcc 'GR'
+title: "Ibong Adarna\r\nCorrido at Buhay na Pinagdaanan nang tatlong Principeng Magcacapatid\
+  \ na Anac nang Haring Fernando at nang Reina Valeriana sa Cahariang Berbania"
+url: http://www.gutenberg.org/ebooks/16157
